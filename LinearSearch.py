@@ -6,4 +6,4 @@ class LinearSearch:
         return -1
 
     def test(self, arr, x):
-        print( '{} is present at index {}'.format(x, self.search(arr,x) ) )
+        print( '{} is present at index {}'.format(x , self.search(arr,x) ) )

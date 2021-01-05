@@ -29,6 +29,6 @@ if __name__ == "__main__":
 
     testcase = LinearSearch()
     testcase.test([1, 10, 30, 15,9,3,19],1)
-    testcase.test([1, 10, 30, 15,9,3,19],19)
+    testcase.test([88, 10, 67, 15,9,3,19],19)
 
 
