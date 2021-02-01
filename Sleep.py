@@ -10,8 +10,8 @@ class Sleep:
 
         for i in range(5):
             current_time = time.localtime()
-            timestamp = time.strftime("%I:%m:%S",current_time)        
-            time.sleep(2)        
+            timestamp = time.strftime("%I:%m:%S",current_time)
+            time.sleep(2)
             print(timestamp)
 
     def user_experience(self):
